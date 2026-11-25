@@ -1,6 +1,6 @@
 # Mytake-icons
 
-
+![Mytake preview image](Preview.png)
 <b>"Mytake" icons</b> are simple edits to selective Papirus icons and are in no way official.
 I may add / update more in the future.
 
@@ -13,14 +13,14 @@ Backup the Papirus original icons first then open Papirus icon folder as root an
 user-trash.svg<br>
 user-trash-full.svg
 
-Copy to directory:
+<b>Copy to directory:</b><br>
 /usr/share/icons/Papirus/64x64/<b>places</b> (plus 22x22/24x24/32x32/48x48)
 
 <b>Devices folder</b><br>
 computer-laptop.svg<br>
 computer.svg
 
-Copy to directory:
+<b>Copy to directory:</b><br>
 /usr/share/icons/Papirus/64x64/<b>devices</b> (plus 22x22/24x24/32x32/48x48)
 
 <b>Credits:</b><br>
