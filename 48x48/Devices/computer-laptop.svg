@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="a" x1="32" x2="32" y1="5.5" y2="57.5" gradientTransform="matrix(.75862 0 0 .78571 -.27586 -1.1429)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4380cf" offset="0"/>
+<stop stop-color="#2b5d9c" offset=".4"/>
+<stop stop-color="#214273" offset=".7"/>
+<stop stop-color="#23304e" offset="1"/>
+</linearGradient>
+</defs>
+<rect transform="matrix(0,-1,-1,0,0,0)" x="-40.5" y="-46" width="3.9286" height="44" rx="1.6366" ry="1.8336" opacity=".2" stroke-width=".77205"/>
+<rect x="4.2759" y="8.2857" width="39.448" height="28.286" rx="1.8966" ry="1.9643" opacity=".2" stroke-width=".77205"/>
+<rect transform="matrix(0,-1,-1,0,0,0)" x="-39.714" y="-46" width="3.9286" height="44" rx="1.6366" ry="1.8336" fill="#4e4e4e" stroke-width=".77205"/>
+<path d="m6.1724 7.5c-1.0507 0-1.8966 0.87607-1.8966 1.9643v1.9643h39.448v-1.9643c0-1.0882-0.84586-1.9643-1.8966-1.9643z" fill="#3f3f3f" stroke-width=".77205"/>
+<path d="m6.1724 7.5c-1.0507 0-1.8966 0.87607-1.8966 1.9643v0.78571c0-1.0882 0.84586-1.9643 1.8966-1.9643h35.655c1.0499 0 1.8966 0.87607 1.8966 1.9643v-0.78571c0-1.0882-0.84662-1.9643-1.8966-1.9643z" fill="#fff" opacity=".1" stroke-width=".77205"/>
+<path d="m4.2759 11.429v22.393c0 1.0882 0.84586 1.9643 1.8966 1.9643h35.655c1.0507 0 1.8966-0.87607 1.8966-1.9643v-22.393z" fill="url(#a)" stroke-width=".77205"/>
+<rect x="4.2759" y="11.429" width="39.448" height=".78571" opacity=".2" stroke-width=".77205"/>
+<ellipse cx="24" cy="9.8571" rx=".75862" ry=".78571" fill="#151515" stroke-width=".77205"/>
+<path d="m3.8328 35.786c-1.0157 0-1.8328 0.73057-1.8328 1.6374v0.65374c0 0.02257 0.0064 0.04365 0.00741 0.06599 0.039309-0.87536 0.83504-1.5714 1.8254-1.5714h40.334c0.99039 0 1.7861 0.69606 1.8254 1.5714 1e-3 -0.02234 0.0074-0.04342 0.0074-0.06599v-0.65374c0-0.90684-0.81717-1.6374-1.8328-1.6374z" fill="#fff" opacity=".1" stroke-width=".77205"/>
+</svg>
